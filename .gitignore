@@ -1,0 +1,7 @@
+# Build and dependencies (the published export lives at the repo root, not in site/out)
+node_modules/
+.next/
+site/out/
+site/tsconfig.tsbuildinfo
+.DS_Store
+*.log
